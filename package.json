@@ -1,0 +1,22 @@
+{
+  "name": "deploywithgithubb",
+  "version": "1.0.0",
+  "description": "deploy with Github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lutfi1996/deploywithgithubb.git"
+  },
+  "author": "Lutfi Fitria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lutfi1996/deploywithgithubb/issues"
+  },
+  "homepage": "https://github.com/Lutfi1996/deploywithgithubb#readme",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
+}
